@@ -33,8 +33,8 @@ def addPathToLocal():
     pass
 
 # how to delete a path
-def removePathLocaly():
-    pass
+def removePathLocaly2():
+    print("test")
 
 
 # Install a Package Globally
