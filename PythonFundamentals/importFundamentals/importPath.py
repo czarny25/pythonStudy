@@ -43,6 +43,11 @@ def removePathLocaly223():
 
 
 # Install a Package Globally
+def removePathLocaly223hfghf():
+    print("test")
+
+
+# Install a Package Globally
 def removePathLocaly223gdfgh():
     print("test")
 
@@ -60,7 +65,3 @@ showYourCurrentPath()
 
 print(" ") # just break
 
-<<<<<<< HEAD
-#showAllPath()
-=======
->>>>>>> branch 'master' of https://github.com/czarny25/pythonStudy.git
