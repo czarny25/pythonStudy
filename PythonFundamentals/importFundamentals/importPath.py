@@ -37,24 +37,6 @@ def removePathLocaly2():
     print("test")
 
 
-# Install a Package Globally
-def removePathLocaly223():
-    print("test")
-
-
-# Install a Package Globally
-def removePathLocaly223hfghf():
-    print("test")
-
-
-# Install a Package Globally
-def removePathLocaly223gdfgh():
-    print("test")
-
-
-# Install a Package Globally
-def removePathLocaly223gdfghskjfsjf():
-    print("test")
 
 
 pinSysDirect12()
