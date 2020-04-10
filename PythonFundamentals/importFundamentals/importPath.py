@@ -33,7 +33,7 @@ def addPathToLocal():
     pass
 
 # how to delete a path
-def removePathLocaly1():
+def removePathLocaly2():
     print("test")
 
 
