@@ -50,4 +50,4 @@ showYourCurrentPath()
 
 print(" ") # just break
 
-showAllPath()
+#showAllPath()
