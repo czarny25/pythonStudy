@@ -39,7 +39,7 @@ def removePathLocaly2():
 
 # Install a Package Globally
 def removePathLocaly223():
-    print("test")
+    print("test nowy")
 
 
 pinSysDirect12()
