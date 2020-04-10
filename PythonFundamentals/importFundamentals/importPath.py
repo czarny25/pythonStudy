@@ -42,6 +42,16 @@ def removePathLocaly223():
     print("test")
 
 
+# Install a Package Globally
+def removePathLocaly223gdfgh():
+    print("test")
+
+
+# Install a Package Globally
+def removePathLocaly223gdfghskjfsjf():
+    print("test")
+
+
 pinSysDirect12()
 
 pinSysDirect22()
@@ -50,4 +60,7 @@ showYourCurrentPath()
 
 print(" ") # just break
 
+<<<<<<< HEAD
 #showAllPath()
+=======
+>>>>>>> branch 'master' of https://github.com/czarny25/pythonStudy.git
