@@ -29,14 +29,14 @@ def showAllPath():
 
 
 # how to add path 
-
-
+def addPathToLocal():
+    pass
 
 # how to delete a path
 
 
 
-
+# Install a Package Globally
 
 
 
