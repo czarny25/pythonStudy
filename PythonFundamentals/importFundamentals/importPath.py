@@ -42,6 +42,12 @@ def removePathLocaly223():
     print("test")
 
 
+# Install a Package Globally
+def removePathLocaly223gdfgh():
+    print("test")
+
+
+
 pinSysDirect12()
 
 pinSysDirect22()
@@ -50,4 +56,3 @@ showYourCurrentPath()
 
 print(" ") # just break
 
-showAllPath()
