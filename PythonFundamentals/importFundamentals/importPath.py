@@ -22,7 +22,7 @@ def showYourCurrentPath():
     print('\n',os.getcwd())
 
 
-def showAllPath():
+def showAllPath23():
     # this will show all paths available in the system
     for l in sys.path:
         print(l)
