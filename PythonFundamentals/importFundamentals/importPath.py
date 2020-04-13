@@ -9,18 +9,18 @@ import os
 
 def pinSysDirect12():
     # shows where is python installed
-    print('\n',sys.prefix)
+    ('\n',sys.prefix)
     
 
 def pinSysDirect22():
     # where are compiled binaries are stored
-    print('\n',sys.exec_prefix)
+    ('\n',sys.exec_prefix)
     
 
 
 def showYourCurrentPath():
     # this will show your current path of this file
-    print('\n',os.getcwd())
+    ('\n',os.getcwd())
 
 
 
