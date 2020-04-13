@@ -38,9 +38,12 @@ print(" ") # just break
 
 showAllPath()
 
-import sqlalchemy
 
+# please install SQLAlchemy for below code by running 'pip install SQLAlchemy' in your terminal
+import sqlalchemy
 print(sqlalchemy.__version__)
+
+
 
 print("Tralala")
 
