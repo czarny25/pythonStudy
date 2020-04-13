@@ -14,7 +14,8 @@ def pinSysDirect12():
 
 def pinSysDirect22():
     # where are compiled binaries are stored
-    print('\n',sys.exec_prefix)    
+    print('\n',sys.exec_prefix)
+    
 
 
 def showYourCurrentPath():
@@ -22,22 +23,10 @@ def showYourCurrentPath():
     print('\n',os.getcwd())
 
 
-def showAllPath23():
-    # this will show all paths available in the system
+
+def showAllPath():
     for l in sys.path:
         print(l)
-
-
-# how to add path 
-def addPathToLocal():
-    pass
-
-# how to delete a path
-def removePathLocaly2():
-    print("test")
-
-
-
 
 pinSysDirect12()
 
@@ -46,4 +35,17 @@ pinSysDirect22()
 showYourCurrentPath()
 
 print(" ") # just break
+
+showAllPath()
+
+import sqlalchemy
+
+print(sqlalchemy.__version__)
+
+print("Tralala")
+
+
+
+
+
 
