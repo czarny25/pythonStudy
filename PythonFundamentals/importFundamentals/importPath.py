@@ -32,6 +32,8 @@ pinSysDirect12()
 
 pinSysDirect22()
 
+# this is laptop installation pateh C:\Users\czarn\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0
+
 showYourCurrentPath()
 
 print(" ") # just break
