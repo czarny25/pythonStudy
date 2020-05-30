@@ -7,7 +7,7 @@ import numpy as np # numpy is external library and need to be imported
 
 
 # simple list 
-list = [1,2,3]
+list = [1,2,3,4,5]
 
 # variable of numpy array type take list as argument
 x = np.array(list)
