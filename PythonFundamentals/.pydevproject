@@ -6,6 +6,7 @@
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
 <pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
-<path>C:\Users\Marty\AppData\Local\Programs\Python\Python37-32\Lib\site-packages</path>
+<path>/home/marty/Desktop/eclipse/PythonExternaLibrarys</path>
+<path>/home/marty/Desktop/eclipse/PythonExternaLibrarys/numpy-1.18.2.zip</path>
 </pydev_pathproperty>
 </pydev_project>
