@@ -34,8 +34,13 @@ my_func1(b=23, a=73)
 my_func1(23, c=73, b=45)
 
 
+<<<<<<< HEAD
 ''' Mandatory keyword parameters '''
 
+=======
+# positional and keyword can be mixed and matched 
+my_func1(23, c=73, b=345)
+>>>>>>> branch 'master' of https://github.com/czarny25/pythonStudy.git
 
 
 
