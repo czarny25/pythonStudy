@@ -6,7 +6,7 @@ Created on 9 Apr 2020
 
 print("Foo")
 
-from importFundamentals import importPath
+#from importFundamentals import importPath
 
 p1 = importPath.pinSysDirect12()
 p2 = importPath.pinSysDirect22()
