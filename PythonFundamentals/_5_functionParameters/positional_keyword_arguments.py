@@ -8,7 +8,7 @@ Explanation and practice of positional and keyword arguments
 def my_func(a,b,c):
     print("a={0}, b={1}, c={2}".format(a, b, c))
 
-my_func(2, 3, 5) # all arguments must be called
+my_func(2, 13, 5) # all arguments must be called
 
 # or - use default arguments
 def my_func1(a,b=12,c=50): # second argument is default so all following must be default as well
